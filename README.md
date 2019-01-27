@@ -1,2 +1,1 @@
-# DisqueriaTPAlgoI
-Trabajo practico de algoritmos I.
+# Disqueria TP
